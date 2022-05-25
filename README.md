@@ -18,7 +18,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andynvt)
 
 # My website
-[![My website](https://img.shields.io/badge/website-ngvantai.com-4790ff)](https://ngvantai.com)
+[![My website](https://img.shields.io/badge/website-ngvantai.com-4790ff)](https://nvtai.dev)
 
 # Github Status
 <p align="center">
