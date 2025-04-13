@@ -17,13 +17,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/me.ngvantai/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andynvt)
 
-# My website
-[![My website](https://img.shields.io/badge/website-nvtai.dev-4790ff)](https://nvtai.dev)
 
-# Github Status
-<p align="center">
-<img src="https://metrics.lecoq.io/andynvt">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andynvt&layout=compact&theme=tokyonight&langs_count=6">
-</p>
